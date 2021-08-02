@@ -24,6 +24,3 @@ After the dependencies are installed, you can start the development server with 
 
 ---
 
-## Deploying
-
-***[coming soon]***
