@@ -2,12 +2,9 @@
 
 
 - Getting Started
- 	* [Introduction](/docs/introduction/introduction)
-	* [Project Setup](/docs/introduction/setup)
+ 	* [Introduction](/docs/introduction/introduction "Introduction")
+	* [Project Setup](/docs/introduction/setup "Project Setup")
 
 - Developer API
-	* [Endpoints](/docs/api/endpoints)
-		- [/api/search.json](/docs/api/endpoint/search)
-		- [/api/next.json](/docs/api/endpoint/next)
-		- [/api/artist.json](/docs/api/endpoint/artist)
-	* [Examples](/docs/api/examples)
+	* [Endpoints](/docs/api/endpoints "Endpoints")
+	* [Examples](/docs/api/examples "Endpoint Examples")
